@@ -14,6 +14,7 @@
 | [Selection Sort (Сортировка выбором)](src/Sort/selection_sort/)  | O(n^2) /  O(n^2)  |  O(1) | 03.08.2020 |
 | [Bubble Sort (Сортировка пузырьком)](src/Sort/buble_sort/)  | O(n^2) /  O(n)  |  O(1) | 03.08.2020 |
 | [Insertion Sort (Сортировка вставками)](src/Sort/insertion_sort/)  | O(n^2)  /  O(n) |  O(1) | 04.08.2020 | 
-| [Quick Sort (Быстрая сортировка)](src/Sort/quick_sort/) | O(n)  /  O(n)| O(n) | 06.08.2020 |
+| [Quick Sort (Быстрая сортировка)](src/Sort/quick_sort/) | O(n)  /  O(n^2)| O(n * log n) | 06.08.2020 |
+| [Merge Sort (Сортировка слиянием)](src/Sort/merge_sort/) | O(n * long n) | O(n) | 13.08.2020 |
 
 
