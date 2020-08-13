@@ -21,4 +21,4 @@
 ![](img/merge_sort.png)
 
 ## Дополнительные материалы
-- [https://foxford.ru/wiki/informatika/sortirovka-sliyaniem]()
+- [https://foxford.ru/wiki/informatika/sortirovka-sliyaniem](https://foxford.ru/wiki/informatika/sortirovka-sliyaniem)
