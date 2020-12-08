@@ -14,7 +14,7 @@
 | [Selection Sort (Сортировка выбором)](src/Sort/selection_sort/)  | O(n^2) /  O(n^2)               |  O(1)                     |                       | 03.08.2020 |
 | [Bubble Sort (Сортировка пузырьком)](src/Sort/buble_sort/)       | O(n^2) /  O(n)                 |  O(1)                     |                       | 03.08.2020 |
 | [Insertion Sort (Сортировка вставками)](src/Sort/insertion_sort/)| O(n^2) /  O(n)                 |  O(1)                     |                       | 04.08.2020 | 
-| [Quick Sort (Быстрая сортировка)](src/Sort/quick_sort/)          | O(n)   /  O(n^2)               | O(n * log n)              |                       | 06.08.2020 |
+| [Quick Sort (Быстрая сортировка)](src/Sort/quick_sort/)          | O(n^2) / O(n)                  | O(n * log n)              |                       | 06.08.2020 |
 | [Merge Sort (Сортировка слиянием)](src/Sort/merge_sort/)         | O(n * long n)                  | O(n)                      |                       | 13.08.2020 |
 | [Counting Sort (Сортировка подсчетом)](src/Sort/counting_sort/)  | O(n)                           | O(k)                       | За линейное время сортировать массив целых чисел из не очень большого диапазона k | ??.08.2020 |
 | [Radix Sort (Поразрядная сортировка)](src/Sort/radix_sort/)      | O(n)                           | O(1)                       | Нужно заранее знать индексы k, m    | ??.08.2020 |
