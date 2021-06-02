@@ -1,6 +1,6 @@
 # Contests
 
-[YA](src/Contest/YA/)
+* [YA](src/Contest/YA/)
 
 # Поиск
 
