@@ -10,13 +10,13 @@ import (
 	"strings"
 )
 
-// Вывод на экран
 func main(){
 	res := Run("input.txt")
 	fmt.Println(res)
 }
 
-// Основная функция запускающая код и что то возвращающая. Ее и будем тестировать.
+// Задача: Написать код, вычисляющий: y = ax2 + bx + c.
+// a, b, c, x - числа в файле data/input_*.txt
 func Run(path string) int{
 	readInputData := Input(path)
 	prepareInput := Preparer(readInputData)
@@ -24,7 +24,7 @@ func Run(path string) int{
 	return result
 }
 
-// Читаем файл, и возвращаем массив строк
+// Читаем файл и возвращаем массив строк
 func Input(path string) []string{
 	file, err := os.Open(path)
 	if err != nil {
@@ -34,7 +34,7 @@ func Input(path string) []string{
 
 	scanner := bufio.NewScanner(file)
 	scanner.Scan()
-	return strings.Split(scanner.Text(), " ") // В этом случае нужен Flush? Или он только при записи?
+	return strings.Split(scanner.Text(), " ")
 }
 
 // Вспомогательная функция, для преобразования массива строк в массив интов
@@ -47,7 +47,7 @@ func Preparer(arr []string) []int {
 	return result
 }
 
-// y = ax^2 + bx + c
+// Вычисляем: y = ax^2 + bx + c
 func Calc(arr []int) int{
 	a := arr[0]
 	x := arr[1]
