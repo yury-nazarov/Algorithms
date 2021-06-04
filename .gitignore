@@ -6,3 +6,5 @@ __pycache__
 *.out
 example
 src/Contest/YA/Sprint_1/Z/
+venv
+src/Contest/2021_06_02/
