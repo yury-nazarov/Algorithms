@@ -2,8 +2,9 @@
 ## Topics
 
 * [String](src/Topics/String)
-    * [Cамое длинное слово в строке](src/Topics/String/1)
+    * [Самое длинное слово в строке](src/Topics/String/1)
     * [Палиндром](src/Topics/String/2)
+    * [Подсчет букв и сжатие строки](src/Topics/String/3)
 * [Array](src/Topics/Array)
     * [списочная форма](src/Topics/Array/1)
 * [Math](src/Topics/Math) 
