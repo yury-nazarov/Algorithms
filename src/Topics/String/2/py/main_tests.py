@@ -5,12 +5,12 @@ import main
 class MainTests(unittest.TestCase):
 
     def test_1(self):
-        path = "../data/input_1.txt"    # A man, a plan, a canal: Panama
+        path = "../data/input_1.txt"  # 1 man, a plan, a canal: Panama
         result = main.is_palindrome(path)
         self.assertEqual(result, True)
 
     def test_2(self):
-        path = "../data/input_2.txt"    # zo
+        path = "../data/input_2.txt"  # zo
         result = main.is_palindrome(path)
         self.assertEqual(result, False)
 
