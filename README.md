@@ -10,6 +10,7 @@
     * [Списочная форма](src/Topics/Array/1)
     * [Общее число](src/Topics/Array/2)
     * [Клумба](src/Topics/Array/3)
+    * [Горный массив](src/Topics/Array/4)
 * [Math](src/Topics/Math) 
     * [Квадратная функция](src/Topics/Math/1)
     * [Числа одной четности](src/Topics/Math/2)
