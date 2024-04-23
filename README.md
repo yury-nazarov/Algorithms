@@ -11,12 +11,13 @@
     * [Общее число](src/Topics/Array/2)
     * [Клумба](src/Topics/Array/3)
     * [Горный массив](src/Topics/Array/4)
+    * [Горный массив](src/Topics/Array/4)
+    * * [Диапазоны чисел](src/Topics/Array/5)
 * [Math](src/Topics/Math) 
     * [Квадратная функция](src/Topics/Math/1)
     * [Числа одной четности](src/Topics/Math/2)
     * [Перевод числа из десятичной в двоичную](src/Topics/Math/3)
     * [Степень четверки](src/Topics/Math/4)
-    * [Диапазоны чисел](src/Topics/Math/5)
 
 # Теория
 ## Поиск
