@@ -14,3 +14,7 @@ Output:
 Input: 
 Output: 
 ```
+
+
+# Задачи
+- [Похожая задача где ни будь еще: leetcode, yandex, собес, etc]()
