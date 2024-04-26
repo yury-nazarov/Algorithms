@@ -1,12 +1,20 @@
 # Задачи
 ## Topics
 
+
 * [String](src/Topics/String)
     * [Самое длинное слово в строке](src/Topics/String/1)
     * [Палиндром](src/Topics/String/2)
     * [Подсчет букв и сжатие строки](src/Topics/String/3)
 * [Array](src/Topics/Array)
-    * [списочная форма](src/Topics/Array/1)
+    * [Списочная форма](src/Topics/Array/1)
+    * [Общее число](src/Topics/Array/2)
+    * [Клумба](src/Topics/Array/3)
+    * [Горный массив](src/Topics/Array/4)
+    * [Горный массив](src/Topics/Array/4)
+    * [Диапазоны чисел](src/Topics/Array/5)
+    * [Наибольшее кол-во конфет](src/Topics/Array/6)
+    * [Наибольшая возрастающая последовательность](src/Topics/Array/7)
 * [Math](src/Topics/Math) 
     * [Квадратная функция](src/Topics/Math/1)
     * [Числа одной четности](src/Topics/Math/2)
@@ -36,3 +44,11 @@
 | [Radix Sort (Поразрядная сортировка)](src/Sort/radix_sort/)      | O(n)                           | O(1)                       | Нужно заранее знать индексы k, m    | ??.08.2020 |
 
 
+## Проверка
+
+Запуск тестов
+
+```
+cd /dit/with/tests
+python3 -m unittest main_tests.py
+```
