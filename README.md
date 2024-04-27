@@ -15,6 +15,7 @@
     * [Диапазоны чисел](src/Topics/Array/5)
     * [Наибольшее кол-во конфет](src/Topics/Array/6)
     * [Наибольшая возрастающая последовательность](src/Topics/Array/7)
+    * [Суммирование последовательности чисел](src/Topics/Array/8)
 * [Math](src/Topics/Math) 
     * [Квадратная функция](src/Topics/Math/1)
     * [Числа одной четности](src/Topics/Math/2)
